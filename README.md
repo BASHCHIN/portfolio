@@ -4,7 +4,7 @@
 
 |<a href="https://www.instagram.com/raelicit">INSTAGRAM</a>|
 :-------------------------:
-|<a href="https://www.instagram.com/raelicit"><img src="sources/INSTA.png"></a>|
+|<a href="https://www.instagram.com/raelicit"><img src="sources/INSTA.png" height="250" width="250"></a>|
 
 ### Writing
 |<a href="https://raeawrites.blogspot.com/">THIS WILL DESTROY YOU</a>|
