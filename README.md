@@ -21,4 +21,4 @@
 
 <a href="https://soundcloud.com/bashyboi">SOUNDCLOUD</a> | <a href="https://youtu.be/uvQh-V3xEAw">DeathDream</a> | <a href="https://github.com/BASHCHIN/raetapes">RAETAPES // Spotify Playlists</a>
 :-------------------------:|:-------------------------:|:-------------------------:
-<a href="https://soundcloud.com/bashyboi"><img src="sources/SNDCLD.jpg" height="250" width="250"></a> | <a href="https://youtu.be/uvQh-V3xEAw"><img src="sources/MUSIC.png" height="250" width="250"></a>|<a href="https://github.com/BASHCHIN/raetapes"><img src="sources/RAETAPES.jpg"></a>
+<a href="https://soundcloud.com/bashyboi"><img src="sources/SNDCLD.jpg" height="250" width="250"></a> | <a href="https://youtu.be/uvQh-V3xEAw"><img src="sources/MUSIC.png" height="250" width="250"></a>|<a href="https://github.com/BASHCHIN/raetapes"><img src="sources/RAETAPES.jpg"  height="250" width="250"></a>
