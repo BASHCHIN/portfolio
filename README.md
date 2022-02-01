@@ -16,7 +16,7 @@
                                                                                            
 ## Music
 
- <p float="left">
-<a href="https://soundcloud.com/bashyboi"><img src="sources/SNDCLD.jpg" height="250" width="250">SOUNDCLOUD</a>
-<a href="https://youtu.be/uvQh-V3xEAw"><img src="sources/MUSIC.png" height="250" width="250">DeathDream</a>
- </p>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<a href="https://soundcloud.com/bashyboi"><img src="sources/SNDCLD.jpg" height="250" width="250"></a> | <a href="https://youtu.be/uvQh-V3xEAw"><img src="sources/MUSIC.png" height="250" width="250"></a>
+<a href="https://soundcloud.com/bashyboi">SOUNDCLOUD</a> | <a href="https://youtu.be/uvQh-V3xEAw">DeathDream</a>
