@@ -2,6 +2,10 @@
 
 ## Images, Instagram, Graphic Design
 
+|<a href="https://www.instagram.com/raelicit">INSTAGRAM</a>|
+:-------------------------:
+|<a href="https://www.instagram.com/raelicit"><img src="sources/INSTA.png"></a>|
+
 ### Writing
 |<a href="https://raeawrites.blogspot.com/">THIS WILL DESTROY YOU</a>|
 :-------------------------:
