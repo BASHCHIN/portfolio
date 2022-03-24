@@ -7,9 +7,9 @@
 |<a href="https://www.instagram.com/raelicit"><img src="sources/INSTA.png" height="250" width="250"></a>|
 
 ### Writing
-|<a href="https://raeawrites.blogspot.com/">THIS WILL DESTROY YOU</a>|
-:-------------------------:
-|<a href="https://raeawrites.blogspot.com/"><img src="sources/aaa.png" height="250" width="250"></a>|
+|<a href="https://raeawrites.blogspot.com/">THIS WILL DESTROY YOU</a>|<a href="https://besidenoise.wordpress.com">BESIDE NOISE</a>
+:-------------------------:|:-------------------------:
+|<a href="https://raeawrites.blogspot.com/"><img src="sources/aaa.png" height="250" width="250"></a>|<a href="https://besidenoise.wordpress.com"><img src="sources/NNWHEN.png" height="250" width="250"></a>|
 
 ## Videography
 
